@@ -1,9 +1,9 @@
 # 📦 E-Commerce Logistics & Retention Command Center
 **Tech Stack:** Power BI, Power Query (ETL), DAX, Relational Data Modeling  
-**Dataset:** [Olist Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (100k+ Orders)
+**Dataset:** [Olist Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ## 📌 Project Objective
-The objective of this project was to identify geographic freight bottlenecks and mathematically prove how delivery latency impacts Customer Satisfaction (CSAT) scores for a multi-million dollar e-commerce platform.
+The objective of this project was to identify geographic freight bottlenecks and mathematically demonstrate how delivery latency affects Customer Satisfaction (CSAT) scores for a multi-million-dollar e-commerce platform.
 
 **I will go phase by phase on how I did this project:**
 
